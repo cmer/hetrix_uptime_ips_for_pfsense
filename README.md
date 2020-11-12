@@ -7,3 +7,14 @@ Stupidly simple app that fetches the uptime monitoring URL list from HetrixTools
 ```bash
 rackup
 ```
+
+### Deploy to Heroku
+
+Requirements: Heroku CLI tools
+
+```
+heroku login
+heroku create
+git push heroku master
+heroku open
+```
