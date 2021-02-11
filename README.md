@@ -18,3 +18,7 @@ heroku create
 git push heroku master
 heroku open
 ```
+
+### My deployment
+
+[https://hetrix-ip.herokuapp.com/](https://hetrix-ip.herokuapp.com/)
